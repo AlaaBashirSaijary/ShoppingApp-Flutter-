@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103765634654",
+    "project_id": "shop-f8b65",
+    "storage_bucket": "shop-f8b65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103765634654:android:7ec973b6666f09d016cecf",
+        "android_client_info": {
+          "package_name": "com.example.newshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_lEO3KWAh4lqNbMZ9HrHup0pwKGHJMqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
